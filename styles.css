@@ -1,0 +1,20 @@
+* {
+	box-sizing: border-box;
+}
+
+html {
+	scroll-behavior: smooth;
+}
+
+body {
+	min-height: 100vh;
+}
+
+img {
+	display: block;
+	max-width: 100%;
+}
+
+button {
+	cursor: pointer;
+}
